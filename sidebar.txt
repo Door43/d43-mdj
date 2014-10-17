@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdj:home|Door43 (mdj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdj|d43-mdj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdj/archive/master.zip|d43-mdj.zip]]
+
+**Recent Changes**
+{{changes>ns = mdj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdj|Ethnologue data]]
+
